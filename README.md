@@ -17,10 +17,7 @@ I am Deepanshu Soni, a passionate Python developer with a strong interest in dat
 ## 🌟 My Goals:
 In the near future, I aim to solidify my skills as a **Data Analyst** by continuing to work on real-world data projects and staying up to date with the latest trends in data science and analytics.
 
-## 💻 Projects:
-- [Student Performance Factors](https://github.com/yourusername/Student-Performance-Factors) - A project where I analyze factors affecting student performance.
-- [Netflix Data Analysis](https://github.com/yourusername/Netflix-Data-Analysis) - In this project, I dive into Netflix data to extract insights and create visual reports.
-- 📫 How to Reach Me:
+## 📫 How to Reach Me:
 <a href="https://github.com/deepanshu769" target="_blank">
   <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub"/>
 </a>
