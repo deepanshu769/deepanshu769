@@ -20,9 +20,7 @@ In the near future, I aim to solidify my skills as a **Data Analyst** by continu
 ## 💻 Projects:
 - [Student Performance Factors](https://github.com/yourusername/Student-Performance-Factors) - A project where I analyze factors affecting student performance.
 - [Netflix Data Analysis](https://github.com/yourusername/Netflix-Data-Analysis) - In this project, I dive into Netflix data to extract insights and create visual reports.
-
 - 📫 How to Reach Me:
-
 <a href="https://github.com/deepanshu769" target="_blank">
   <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub"/>
 </a>
@@ -32,5 +30,4 @@ In the near future, I aim to solidify my skills as a **Data Analyst** by continu
 <a href="deepanshusoni7090@gmail.com">
   <img src="https://img.icons8.com/ios-filled/30/000000/email.png" alt="Email"/>
 </a>
-
 Thanks for stopping by! Let’s connect and collaborate on data-driven projects.
