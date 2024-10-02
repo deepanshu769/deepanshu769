@@ -18,6 +18,7 @@ I am Deepanshu Soni, a passionate Python developer with a strong interest in dat
 In the near future, I aim to solidify my skills as a **Data Analyst** by continuing to work on real-world data projects and staying up to date with the latest trends in data science and analytics.
 
 ## 📫 How to Reach Me:
+<div id="badges">
 <a href="https://github.com/deepanshu769" target="_blank">
   <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub"/>
 </a>
@@ -27,4 +28,4 @@ In the near future, I aim to solidify my skills as a **Data Analyst** by continu
 <a href="deepanshusoni7090@gmail.com">
   <img src="https://img.icons8.com/ios-filled/30/000000/email.png" alt="Email"/>
 </a>
-Thanks for stopping by! Let’s connect and collaborate on data-driven projects.
+<</div>
